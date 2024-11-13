@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyD_E6NTfNpDf5lZcmQdN7bp0FuA7XHedC8",
-  authDomain: "pulkit-estate.firebaseapp.com",
-  projectId: "pulkit-estate",
-  storageBucket: "pulkit-estate.appspot.com",
-  messagingSenderId: "23648170322",
-  appId: "1:23648170322:web:c6f03808f6c6fc0d21ca8b"
+  apiKey: "AIzaSyCMww_zsApy_wsRkQ6w1SnkhVYV7rNeAFY",
+  authDomain: "adityaestate-4c79a.firebaseapp.com",
+  projectId: "adityaestate-4c79a",
+  storageBucket: "adityaestate-4c79a.firebasestorage.app",
+  messagingSenderId: "685112477082",
+  appId: "1:685112477082:web:1d9a752068b9670c4da623"
 };
 
 // Initialize Firebase

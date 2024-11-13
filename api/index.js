@@ -9,7 +9,7 @@ import path from 'path';
 
 dotenv.config();
 
-mongoose.connect("mongodb+srv://pulkit0707chawla:hjYdcSqb3ot3ItwC@pulkit-estate.jsrhprz.mongodb.net/?retryWrites=true&w=majority&appName=pulkit-estate").then(()=>{
+mongoose.connect("mongodb+srv://adityanagpal10:AdityA10@adityaestate.xxh9z.mongodb.net/").then(()=>{
     console.log('Connected to mongdb');
 }).catch((err)=>{
     console.log(err);
